@@ -6,3 +6,4 @@ JavaScript Marathon - by Hitesh Choudhary
 * 03. Text
 * 04. Boolean
 * 05. convension
+* 06. hiddenAlgo
