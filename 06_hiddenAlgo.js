@@ -6,7 +6,7 @@ console.log(Number("3")); // 3
 console.log(Number("3.14")); // 3.14
 
 
-// objects to permitive value
+// objects to permitive value 
 
 
 // 1. perefer-string
@@ -14,7 +14,7 @@ console.log(Number("3.14")); // 3.14
 // 3. No-preference
  
 
-// toString()  || valueOf()
+// toString()  ||  valueOf()
 
 let colorvalue = 14
 let binaryColorValue = colorvalue.toString(2)
