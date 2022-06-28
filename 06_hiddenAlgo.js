@@ -6,6 +6,7 @@ console.log(Number("3")); // 3
 console.log(Number("3.14")); // 3.14
 
 
+
 // objects to permitive value 
 
 
